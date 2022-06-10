@@ -1,5 +1,5 @@
-#ifndef CIRCLE_H
-#define CIRCLE_H
+#ifndef OOP3_H
+#define OOP3_H
 
 #include <iostream>
 #include <cmath>
